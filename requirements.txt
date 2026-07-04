@@ -1,0 +1,10 @@
+pandas
+numpy
+rdkit
+scikit-learn
+matplotlib
+seaborn
+joblib
+tqdm
+molvs
+imbalanced-learn
